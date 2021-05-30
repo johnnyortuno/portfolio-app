@@ -1,5 +1,6 @@
 # PortfolioApp
 
+In this project , i learn angular , reactive forms, cookie Set, Vigilinate guards , Services , routing , services Rest example post , get, put , delete.
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.0.1.
 
 ## Development server
